@@ -11,8 +11,8 @@ public class VariablesYConstantes {
 
     public static void demostrarConvencionesNombres() {
         // TODO
-        String nombreJugador = "juan;"
-        int Edadjugador 
+        String nombreJugador = "juan";
+        int Edadjugador = "20";
 
     }
 
