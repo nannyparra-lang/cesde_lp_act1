@@ -11,9 +11,13 @@ public class VariablesYConstantes {
 
     public static void demostrarConvencionesNombres() {
         // TODO
+        String nombreJugador = "juan;"
+        int Edadjugador 
+
     }
 
     public static void demostrarConstantes() {
         // TODO
+        final double  PI = 3.1416
     }
 }
