@@ -14,8 +14,8 @@ public class Operadores {
         // TODO
 
         int = 5;
-        System.out.println(++n);
-        System.out.println(n++);
+        System.out.println(++numero);
+        System.out.println(numero++);
     }
 
 
